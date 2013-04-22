@@ -1,0 +1,9 @@
+.cproject
+.project
+.settings
+
+*.o
+
+*.89z
+*.v2z
+*.9xz
